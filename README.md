@@ -1,10 +1,10 @@
-git init 등록
+git init (make git)
 #
-git add (파일이름 or *)
+git add (filename or *)
 #
 git commit -m "comment"
 #
-git remote add other http://github.com/Leejeeyong/OtherStudy.git
+git remote add other http://github.com/Leejeeyong/OtherStudy.git (make origin)
 #
-git push -u origin master
+git push ( or -u origin master)
 #
