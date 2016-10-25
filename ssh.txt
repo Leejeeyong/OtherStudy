@@ -1,0 +1,16 @@
+서비스 상태
+$ service status
+
+서비스 멈춤
+$ systemctl stop sshd.service
+
+서비스시작
+$ systemctl start sshd.service
+
+서비스 사용가능
+$ systemctl enable sshd.service
+
+윈도우의 ip보는
+
+$ ifconfig
+
